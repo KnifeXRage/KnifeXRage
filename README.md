@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello World! 👋
 
-<!--
-**KnifeXRage/KnifeXRage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aditya, a Student Developer Passionate About:
 
-Here are some ideas to get you started:
+🎮 Game Development  
+💻 Programming  
+🔒 Software Security  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Godot Engine
+- C#/C++
+- Game Security
+- Linux Systems
+- Game Devlopment
+
+## 🛠️ My Projects
+### [Godot Secure](https://github.com/KnifeXRage/Godot-Secure): _A Simple Solution to Increase the security of your Godot Game's Assets_
+
+## 📚 Student Life
+
+### I'm currently:
+
+- Studying Computer Science
+- Building open-source tools to learn
+- Balancing coding with coursework
+
+## ☕ Support My Journey
+As a student facing financial challenges, any support helps me continue developing while studying:
+> <a href='https://ko-fi.com/V7V41FR21F' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+🌟 Even starring my repos helps!
+
+# Thank You 😊
