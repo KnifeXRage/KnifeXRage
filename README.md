@@ -2,13 +2,14 @@
 
 I'm Aditya, a Student Developer Passionate About:
 
+🕹️ Gaming
 🎮 Game Development  
 💻 Programming  
 🔒 Software Security  
 
 ## 🌱 Currently Learning
 - Godot Engine
-- C#/C++
+- Python/C++
 - Game Security
 - Linux Systems
 - Game Devlopment
