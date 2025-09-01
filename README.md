@@ -2,7 +2,7 @@
 
 I'm Aditya, a Student Developer Passionate About:
 
-🕹️ Gaming
+🕹️ Gaming  
 🎮 Game Development  
 💻 Programming  
 🔒 Software Security  
