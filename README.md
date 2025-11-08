@@ -16,6 +16,7 @@ I'm Aditya, a Student Developer Passionate About:
 
 ## 🛠️ My Projects
 ### [Godot Secure](https://github.com/KnifeXRage/Godot-Secure): _A Simple Solution to Increase the security of your Godot Game's Assets_
+### [Financial Calculator](https://github.com/KnifeXRage/Financial-Calculator): _It's a Simple Calculator App For Calculating EMI, FD, SIP and GST, I created for my Minor Project in Godot Game Engine._
 
 ## 📚 Student Life
 
