@@ -1,3 +1,6 @@
+> **MY CURRENT STATUS (Date - 11/11/2026)**: Hello, whoever reading this, currently I just completed my Diploma in CSE and now I have taken admission in B.Tech (CSE) and living away from my home, that's why I am currently not working on anything and focusing on my academics, after sometime i will buy laptop and _try to continue_ my contribution toward *different projects* like Godot-Secure and my godot games etc, until then i am currently inactive on GitHub and some other platforms. _THANK YOU_ 😊.
+
+
 # Hello World! 👋
 
 I'm Aditya, a Student Developer Passionate About:
